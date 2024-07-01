@@ -1,5 +1,8 @@
 python-telegram-bot==13.7  
 requests==2.22.0
 openai==0.27.0
-python-dotenv==1.0.0 
+python-dotenv==1.0.0
+pydantic==2.7.4
+pydantic-settings==2.3.4
+pydantic_core==2.18.4
 psycopg2
